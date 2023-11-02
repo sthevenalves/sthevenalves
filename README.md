@@ -1,5 +1,6 @@
- ## Olá, meu nome é Stheven Alves, sou estudante de Ciência da Computação
+ ## Olá, meu nome é Stheven Alves
  ### Bem Vindo ao meu GitHub 😁
+ • Acadêmico de Ciência da Computação - UTFPR
  
  ### Main skills:
  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
