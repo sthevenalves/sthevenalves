@@ -1,5 +1,5 @@
  ## Olá, meu nome é Stheven Alves
- ### Bem Vindo ao meu GitHub 😁
+ ### Bem vindo ao meu GitHub 😁
  • Acadêmico de Ciência da Computação - UTFPR
  
  ### Main skills:
