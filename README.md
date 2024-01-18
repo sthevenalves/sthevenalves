@@ -1,6 +1,6 @@
  ## Olá, meu nome é Stheven Alves
  ### Bem vindo ao meu GitHub 😁
- • Acadêmico de Ciência da Computação - UTFPR
+ • Acadêmico de Ciência da Computação <a href="https://portal.utfpr.edu.br/" target="_blank">@UTFPR</a>
 
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthevenalves&layout=compact&theme=dracula"/>
  
