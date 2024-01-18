@@ -1,6 +1,8 @@
  ## Olá, meu nome é Stheven Alves
  ### Bem vindo ao meu GitHub 😁
  • Acadêmico de Ciência da Computação - UTFPR
+
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthevenalves&layout=compact&theme=dracula"/>
  
  ### Main skills:
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
